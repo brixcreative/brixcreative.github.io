@@ -194,6 +194,7 @@
   margin: 0 16px;
   cursor: pointer;
   opacity: 0.4;
+  z-index: 2;
 }
 
 .wrapper .link:hover {
